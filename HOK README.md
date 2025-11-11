@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer &Information Technology.
 - 🌱 I’m currently learning in BCA
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me please mail it - kumarhariomkodi@gmail.com 
+- 📫 How to reach me please mail it -
 
 <!---
 HOK-web/HOK-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
